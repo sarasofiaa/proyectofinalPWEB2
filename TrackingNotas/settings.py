@@ -29,7 +29,7 @@ DEBUG = True
 
 import os
 
-ALLOWED_HOSTS = ['django-project-pweb.onrender.com', 'localhost', '127.0.0.1', '*'] 
+ALLOWED_HOSTS = ['proyectofinalpweb2.onrender.com', 'localhost', '127.0.0.1', '*'] 
 PORT = int(os.environ.get('PORT', 8000))
 
 
