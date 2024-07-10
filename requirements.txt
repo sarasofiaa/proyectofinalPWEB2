@@ -5,4 +5,5 @@ tzdata==2024.1
 djangorestframework==3.15.2
 djangorestframework-simplejwt
 drf_yasg
+gunicorn
 
